@@ -15,7 +15,7 @@ body {
   align-items: flex-end;
   justify-content: center;
   min-height: 100vh;
-  background-color: pink;
+  background-color: white;
   overflow: hidden;
   perspective: 1000px;
   padding: 50px 0px;
